@@ -19,7 +19,7 @@
     "expo": "~36.0.0",
     "expo-activity-feed": "^0.8.21",
     "expo-av": "^8.0.0",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "native-base": "^2.13.8",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
